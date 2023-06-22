@@ -121,5 +121,5 @@ Xây dựng mô hình Image Captioning với phần encoder sẽ dựa trên *Ef
 |  **UIT-ViIC**                        |  0.6965          |   0.5647         |  0.4671          |  0.395           |  0.5821      |  1.0668       |
 |  **UIT – ViIC + Flickr_sportball**   |  0.6957          |   0.5562         |  0.4576          |  0.3863          |  0.5802      |  1.0703       |
 
-* Mô hình: [colab](https://drive.google.com/file/d/193f3_fLwg-ya2XlnrqoV4_nBUwFq6XD2/view?usp=sharing)
-* Báo cáo đồ án: [pdf](https://github.com/leetnlok/CS114/blob/main/Final_Project/report.pdf)
+* Mô hình: [colab](https://github.com/sirrtt/Image-captioning-convert-to-Vietnamese/blob/ec25d4431aa47b16498b0b1a248b300be31ba34f/image_captioning_convert_to_vietnamese.ipynb)
+* Báo cáo đồ án: [pdf](https://github.com/sirrtt/Image-captioning-convert-to-Vietnamese/blob/ec25d4431aa47b16498b0b1a248b300be31ba34f/Image%20captioning.pdf)
